@@ -29,3 +29,4 @@ Where **http://192.168.100.150:3000** is where the server is located. Repleace i
 
 * For some reasons, the book list's item divider does not show when the app is running in a Lollipop (API 22) and Marshmallow (API 23) devices. I wil try to fix it.
 
+* The class **DividerItemDecoration.java** is not mine. You can find it [here](https://www.javatips.net/api/fosdem-companion-android-master/app/src/main/java/android/support/v7/widget/DividerItemDecoration.java).
