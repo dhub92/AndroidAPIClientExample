@@ -1,5 +1,5 @@
 # Android-Rest-Client-Example
-A simple Android project example using an Rest Client called Retrofit, to consume an API Rest. 
+A simple Android project example using a Rest Client called Retrofit, to consume an API Rest. 
 
 ## Retrofit
 Retrofit is a type-safe REST client for Android, Java and Kotlin developed by Square. The library provides a powerful framework for authenticating and interacting with APIs and sending network requests with OkHttp. 
